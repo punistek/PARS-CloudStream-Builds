@@ -1,0 +1,11 @@
+{
+  "name": "⚡ PARS • Official Repository",
+  "description": "PARS CloudStream Eklentileri • Geliştirici: PARS TV • Resmî ve güncel kaynak • TELEGRAM: https://t.me/+IH3IZNOeH2I3NzY0",
+  "iconUrl": "https://raw.githubusercontent.com/punistek/Maydonoz/main/logo.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/plugins.json"
+  ],
+  "metadataUrl": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/plugin-meta.json",
+  "noticesUrl": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/refs/heads/builds/notices.json"
+}

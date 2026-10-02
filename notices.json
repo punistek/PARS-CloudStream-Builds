@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "notices": [
+    {
+      "level": "info",
+      "title": "PARS Plugin Merkezi",
+      "message": "Sağlık kontrolü, domain yönetimi, yetenek rozetleri ve güncelleme notları aktif.",
+      "active": true
+    }
+  ]
+}

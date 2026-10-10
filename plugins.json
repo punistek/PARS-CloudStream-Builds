@@ -1,0 +1,1081 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/punistek/Maydonoz/main/logo.png",
+        "fileHash": "sha256-d059fd75856dbac571593dce44b4b71d90313b15b5c39e2013686e0530c4eddc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 17415,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS TV"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 4,
+        "internalName": "00_PARS_TV",
+        "description": "PARS TV Resm\u00ee Bilgi, Duyuru ve Tan\u0131t\u0131m Merkezi",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/00_PARS_TV.cs3",
+        "name": "00_PARS_TV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "fileHash": "sha256-a8809adfad0e1defeba6223bfc18597269e8aac0f4d89d0638e73377bb32e209",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 33680,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PUU",
+            "PARS"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 20,
+        "internalName": "BelgeselX",
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/BelgeselX.cs3",
+        "name": "BelgeselX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=canlidizi14.com&sz=%size%",
+        "fileHash": "sha256-abbdef0c3fbcc9f05d83d48cff5a6b4130e2dbff38ee1ac3a399833e354aa01e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 42701,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "CanliDizi",
+        "description": "Canl\u0131Dizi - Yerli diziler, dijital diziler, dizi ar\u015fivi, filmler ve TV \u015fovlar\u0131. Tek Par\u00e7a / Tek Par\u00e7a 2 oynat\u0131c\u0131lar\u0131.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/CanliDizi.cs3",
+        "name": "CanliDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinehd.vc&sz=%size%",
+        "fileHash": "sha256-69b5aa78b721c85a348205ca4497020120cfa0e41d742ee44e81937c19dfc44f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 60726,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 7,
+        "internalName": "CineHD",
+        "description": "CineHD Film ve Dizi alt yaz\u0131l\u0131d\u0131r.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/CineHD.cs3",
+        "name": "CineHD"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.live&sz=%size%",
+        "fileHash": "sha256-29741768f8b5b8f30600bda02b6d4c517a4f203d37ca34926e2f684224812d1b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "DDizi",
+        "description": "DDizi film ve dizi sa\u011flay\u0131c\u0131s\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DDizi.cs3",
+        "name": "DDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibox.live&sz=%size%",
+        "fileHash": "sha256-534a57e3d76b6f8e6fd03c52cbe4aeb9eda8d9ccd8a208bf1a7a2376ecbfd4f2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 38216,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "DiziBox",
+        "description": "DiziBOX - Yabanc\u0131 diziler. DBX Pro, Moly+ ve Odnok oynat\u0131c\u0131lar\u0131.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziBox.cs3",
+        "name": "DiziBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizifilmizle.to&sz=%size%",
+        "fileHash": "sha256-ba8ac7cac92ad81b986ea5fc50e8d38be1e59833224febd73d6eaedfb83e35a0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 29850,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DiziFilmIzle",
+        "description": "DiziFilmIzle",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziFilmIzle.cs3",
+        "name": "DiziFilmIzle"
+    },
+    {
+        "iconUrl": "https://dizimakinesi.org/storage/site-assets/01KW7CBANE0RQE6TZ420YQS4NW.png",
+        "fileHash": "sha256-da8e2ea60a91bf46dfa64b9dda55b827e4c768eb9eb5bb21217eee0200889835",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 20788,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DiziMakinesi",
+        "description": "Dizi Makinesi - film ve dizi kayna\u011f\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziMakinesi.cs3",
+        "name": "DiziMakinesi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2135.com&sz=%size%",
+        "fileHash": "sha256-af20103dcbc84bef4cc9f593119d95450f0c407ce42e0206eb85bfa65c810be5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 58107,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "Dizipal",
+        "description": "Dizipal - Dizi / Film (Netflix, BluTV, Exxen, Disney+). Turkce altyazi ve dublaj/orijinal ses.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Dizipal.cs3",
+        "name": "Dizipal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
+        "fileHash": "sha256-a5be5a1f769bc0bc1932100293a39f62a3066d13da8f832409ce59bd7a76b6ff",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 36834,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DiziPod",
+        "description": "DiziPod",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziPod.cs3",
+        "name": "DiziPod"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizisol.com&sz=%size%",
+        "fileHash": "sha256-a72dcef6dcdff16f862af43daf662e67fa56dea149b55a5fe3888e612745946d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 58445,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DiziSol",
+        "description": "DiziSol - Dizi API -> Resolve Stream -> HLS",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziSol.cs3",
+        "name": "DiziSol"
+    },
+    {
+        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "fileHash": "sha256-c27923d14272d4895ff79ab6e3221d053343f3f47ee9d67042ce7f3c0a4ab703",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 21885,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 28,
+        "internalName": "DiziYou",
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DiziYou.cs3",
+        "name": "DiziYou"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.com.tr&sz=%size%",
+        "fileHash": "sha256-af61862cb6abe0e80c4e6a3cba0096b59c48b58b6e47436bf40eb4d1d0aae614",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 24961,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DMAX",
+        "description": "DMAX programlar\u0131 ve belgeselleri",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DMAX.cs3",
+        "name": "DMAX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=donkey.to&sz=%size%",
+        "fileHash": "sha256-ce705cff7da77b1db620a30a2f6ae48257ab1cc3e3f3a5082943d8c254518f07",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 36196,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "punistek"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "DonkeyAltyazi",
+        "description": "Donkey \u2014 Filmler ve Diziler (1080p) + T\u00fcrk\u00e7e altyaz\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/DonkeyAltyazi.cs3",
+        "name": "DonkeyAltyazi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmdozu.com&sz=%size%",
+        "fileHash": "sha256-881751c2aa6aa629cfbe6bd617d0d90b3397183de79c8bc9996fb1f384302bd2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 18793,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FilmDozu",
+        "description": "FilmDozu",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmDozu.cs3",
+        "name": "FilmDozu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmekseni.vip&sz=%size%",
+        "fileHash": "sha256-45e80b0f3f176ed9cb7145f65533a75ff9007f7b8a4f846cc0d394e6f105126d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 37586,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "FilmEkseni",
+        "description": "FilmEkseni",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmEkseni.cs3",
+        "name": "FilmEkseni"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=%size%",
+        "fileHash": "sha256-84adc7f0612e61c8b588abf0da748951ee196d263f5c8a1e9a80aa4d51cd5104",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 54399,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "FilmMakinesi",
+        "description": "FilmMakinesi - Film + Dizi, altyaz\u0131l\u0131 (Close + Rapid)",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
+    },
+    {
+        "iconUrl": "https://filmmodu.cc/favicon-192x192.png",
+        "fileHash": "sha256-857a1a4041ef0a842412dbfd9d220744603977794e9a820fa6a6365e739b1b41",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 23660,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Filmmodu",
+        "description": "Filmmodu film kayna\u011f\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Filmmodu.cs3",
+        "name": "Filmmodu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizle.now&sz=%size%",
+        "fileHash": "sha256-824836ce6abb932b5d41ea9c72cf1c6d814bb4c48091d820b6ca4c36a991f077",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 28788,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "FullHDFilmizle",
+        "description": "FullHDFilmizle provider",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizle.cs3",
+        "name": "FullHDFilmizle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.now&sz=%size%",
+        "fileHash": "sha256-116402bf71e44860445b74e4d604d1c8d245ecc72d27c1214bccdccbc6912bd9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 47751,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FullHDFilmizlesene",
+        "description": "FullHDFilmizlesene - SCX -> RapidVid -> HLS",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "fileHash": "sha256-cf40ecd405dae1f9bcbe82667531a46a18af88fb46cd0dd2fa119c2936088895",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 42996,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PUU",
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 51,
+        "internalName": "HDFilmCehennemi",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.land&sz=%size%",
+        "fileHash": "sha256-96279d06f57d00a7e49339acd519bb737599b62c067cea90769d17e98988ab1b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 35342,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "HDFilmCehennemiYedek",
+        "description": "HDFilmCehennemi Yedek - Film, Dizi, IMDb ve Pop\u00fcler",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/HDFilmCehennemiYedek.cs3",
+        "name": "HDFilmCehennemiYedek"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdiziizle.com&sz=%size%",
+        "fileHash": "sha256-f41290c9fcf8fae5affcf2df12acf43478f0adf4e618295883f17df23bf0a7f1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 58675,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "HDFilmDiziIzle",
+        "description": "HDFilmDizi\u0130zle - Film + Dizi. T\u00fcrk\u00e7e dublaj / altyaz\u0131l\u0131, \u00e7oklu kaynak (Roket, Cehennem, Vidrame, Dublaj).",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/HDFilmDiziIzle.cs3",
+        "name": "HDFilmDiziIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=%size%",
+        "fileHash": "sha256-a7c9523d8910f3fa523099620b5bffd9c961e0e423fe745532d0adbfc954b45f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 19107,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "HDFilmizleBest",
+        "description": "HDFilmizleBest - Film ve Dizi",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/HDFilmizleBest.cs3",
+        "name": "HDFilmizleBest"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=huhu.to&sz=%size%",
+        "fileHash": "sha256-81478dd01cc7f46ac9111e5e29b2a643f495f4a3937934eaa3f0b0ad3735c78c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 19247,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 6,
+        "internalName": "HUHUTR",
+        "description": "HUHU T\u00fcrkiye canl\u0131 TV kanallar\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/HUHUTR.cs3",
+        "name": "HUHUTR"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=720izle.com&sz=%size%",
+        "fileHash": "sha256-3614e69c39977f57705901d285fc8ca262ce68961aab2cda7e0d09f234ece229",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 25716,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Izle720",
+        "description": "720izle film kaynagindan",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Izle720.cs3",
+        "name": "Izle720"
+    },
+    {
+        "iconUrl": "https://jetfilmizle.now/favicon.ico",
+        "fileHash": "sha256-a2fa3f2b7c595de83bba83d213b5d2d321ac0d4753f5bfd5561bc6e4b98a4e05",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 65456,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "JetFilmizle",
+        "description": "JetFilmizle V10 - JetGlobal 12 kaynak + YouTube source destegi",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/JetFilmizle.cs3",
+        "name": "JetFilmizle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
+        "fileHash": "sha256-13710fed2aafe56cd42daa59df24e8cd13312228ab9269c5182051e512c84deb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "KultFilmler",
+        "description": "K\u00fcltFilmler",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/KultFilmler.cs3",
+        "name": "KultFilmler"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.vip&sz=%size%",
+        "fileHash": "sha256-9e2fd5a94a93070a54963d33770c5c0b3c228a2d37502466675180ef2ca9b783",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 47954,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "LiderFilm",
+        "description": "LiderFilm - Film / Dizi. Yerli, Kore, Hint, Asya kategorileri. Turkce/Ingilizce altyazi, dublaj/orijinal ses.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/LiderFilm.cs3",
+        "name": "LiderFilm"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/punistek/Maydonoz/main/SPOR1/icon.png",
+        "fileHash": "sha256-d21f0d28f237909f0146e9bd40a8050f83a142fb13e45971e38962268bc12712",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 31973,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 8,
+        "internalName": "PARSSPOR1",
+        "description": "SPOR1 - nokta at\u0131\u015f\u0131 tan\u0131lama loglu canl\u0131 spor kanallar\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PARSSPOR1.cs3",
+        "name": "PARSSPOR1"
+    },
+    {
+        "fileHash": "sha256-5617936cd3365d2def8a01bb22b4bd66d56e1c3e560927074fdd595c4a5ce29a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 17081,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "PARSSPOR2",
+        "description": "PARS - SPOR TV canl\u0131 kanal kayna\u011f\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PARSSPOR2.cs3",
+        "name": "PARSSPOR2"
+    },
+    {
+        "iconUrl": "https://www.betmarinotv1101.site/favicon.ico",
+        "fileHash": "sha256-6ea4aa3f1c5b25a4bc7319b00ce45cb711c9f06680f02c7f8a315905cba8f418",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 17262,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "PARSSPOR3",
+        "description": "PARS - TV canl\u0131 ma\u00e7 kayna\u011f\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PARSSPOR3.cs3",
+        "name": "PARSSPOR3"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vegoltv982.com&sz=%size%",
+        "fileHash": "sha256-07a8e3f1c2b8c961b3c0512dd22a3a5a454f667fc8792965340c6f20ab18175d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 16981,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "PARSSPOR4",
+        "description": "PARS TV - SPOR Kanallar",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PARSSPOR4.cs3",
+        "name": "PARSSPOR4"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belestivi.com&sz=%size%",
+        "fileHash": "sha256-b70f61ec65ddf0f8a3d3e352e386bd0dacbecc083186a333a12394ef1f83c741",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 20489,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "punistek"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "PuuBeles",
+        "description": "PUU TiVi \u2014 canl\u0131 TV, uygulamadaki kategorilerle (TR \u2605 Ulusal, Spor, Belgesel \u2026)",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PuuBeles.cs3",
+        "name": "PuuBeles"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=speedrestapi.com&sz=%size%",
+        "fileHash": "sha256-3b07a21f77eb77491ae35514c706d96f2b4df83c4c328664787e010fd9982aec",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 50391,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "PuuInat",
+        "description": "PuuInat - \u0130nat Box katalo\u011fu (canl\u0131 TV, spor, dizi, film). \u0130mzal\u0131 istek + AES \u00e7\u00f6zme + yay\u0131n do\u011frulama.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PuuInat.cs3",
+        "name": "PuuInat"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=e-droid.net&sz=%size%",
+        "fileHash": "sha256-8ec854f09af4b05aed487d88cb17188dcc7da23b5ab3f7803f97a0fe0a499d46",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 24849,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 7,
+        "internalName": "PuuNetV",
+        "description": "PuuNetV - NetV Gold katalo\u011fu (canl\u0131 TV, spor, sinema, belgesel kanallar\u0131). AppCreator24/e-droid config \u00e7\u00f6z\u00fcm\u00fc.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/PuuNetV.cs3",
+        "name": "PuuNetV"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/main/assets/providers/SelcukSports.png",
+        "fileHash": "sha256-c772a557bedffef2cd8a246f0a22acba6548945e4bf9ea2e03d4464515a97bc6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 54892,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 10,
+        "internalName": "SelcukSports",
+        "description": "\ud83d\udfe2 TurkSpor kayna\u011f\u0131ndan \u00b7 PARS",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SelcukSports.cs3",
+        "name": "SelcukSports"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=setfilmizle.ltd&sz=%size%",
+        "fileHash": "sha256-86eb00c4743061324c17d2082fe29348608ecd653e0c842f0f5e57dd2f086426",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 38481,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "SetFilm",
+        "description": "SetFilm - Son Filmler, IMDb En \u0130yiler ve Diziler",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SetFilm.cs3",
+        "name": "SetFilm"
+    },
+    {
+        "iconUrl": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png",
+        "fileHash": "sha256-9ac77523458fb945931053861a4616d7ec0d9f4b91b6741d552f06b2759fb65c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 30256,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "ShowTV",
+        "description": "Show TV dizilerini ve b\u00f6l\u00fcmlerini do\u011frudan ShowTV \u00fczerinden otomatik listeler.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/ShowTV.cs3",
+        "name": "ShowTV"
+    },
+    {
+        "iconUrl": "https://www.sinefilmizlesen.cc/favicon.ico",
+        "fileHash": "sha256-55acbaf67731174550ad921d1cafbda3625b4f8cbdde4ed62b739893b210a43e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 19245,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "SineFilmizlesen",
+        "description": "SineFilmizlesen film kayna\u011f\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SineFilmizlesen.cs3",
+        "name": "SineFilmizlesen"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinefy3.com&sz=%size%",
+        "fileHash": "sha256-85240522fc2fdf7882dd0d0bd6714013bb2b15605fa0ca8a29f4bca17aedfee4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 21660,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Sinefy",
+        "description": "Sinefy - Film ve Dizi",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Sinefy.cs3",
+        "name": "Sinefy"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=%size%",
+        "fileHash": "sha256-5b2731a8fd56d547e16458e3d6b0c50025666dfa7e7aa39be7ba430f9c0b35a2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 19672,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "SinemaCC",
+        "description": "SinemaCC",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SinemaCC.cs3",
+        "name": "SinemaCC"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinemaizle.org&sz=%size%",
+        "fileHash": "sha256-2c8d5e0e502c5607d952e31e94927f573e98f376cef3af5fe28b8cd2fdbfc23c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 35539,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "punistek"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "SinemaIzle",
+        "description": "sinemaizle.org \u2014 Film & Yabanc\u0131 Dizi (vidmixi, T\u00fcrk\u00e7e dublaj/altyaz\u0131)",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SinemaIzle.cs3",
+        "name": "SinemaIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=%size%",
+        "fileHash": "sha256-54047ce84e55503c7f3696abb38a37e0327995c64f2c6322b11302fb36a67d34",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 37512,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Sinemakolik",
+        "description": "Sinemakolik film kaynagi - VidMixi resolver",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Sinemakolik.cs3",
+        "name": "Sinemakolik"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+        "fileHash": "sha256-abb0a56f45fc32e48dc89d5bc10aeca9bec663ae9862cdd3640379900a310a4c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 28743,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS",
+            "Maydanoz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Sinewix",
+        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Sinewix.cs3",
+        "name": "Sinewix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=spankbang.com&sz=%size%",
+        "fileHash": "sha256-004770496d75605e8e7564719ba49eaf4126aae0789dcea8bcd32ee06c7515aa",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 25490,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "PUU",
+            "PARS"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "SpankBang",
+        "description": "(VPN) Eklenti VPN ile a\u00e7\u0131l\u0131r. Sonra a\u00e7\u0131lm\u0131yor diye s\u00f6\u011flenmeyin.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/SpankBang.cs3",
+        "name": "SpankBang"
+    },
+    {
+        "iconUrl": "https://ane.tizam.org/templates/tizam/images/favicon.png",
+        "fileHash": "sha256-1690de79a6b0a21734c2684c4d4e35ef783a2f7956c34f0677170cf310355b25",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 21028,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Tizam",
+        "description": "PARS +18 i\u00e7erik",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/Tizam.cs3",
+        "name": "Tizam"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+        "fileHash": "sha256-c8787bff6a75ab03aa8e758b4ab49ad3cb64fb1a4b5b368500b4f640be9b1297",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 16774,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 22,
+        "internalName": "TLCtr",
+        "description": "TLC tr",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/TLCtr.cs3",
+        "name": "TLCtr"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xhamster.com&sz=%size%",
+        "fileHash": "sha256-486ecd155abac0cc0971e6c72e1f7e57f6af619c9eca0d650750581ed73772b6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 20796,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "XHamster",
+        "description": "PARS Adult +18 ",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/XHamster.cs3",
+        "name": "XHamster"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xhamster.com&sz=%size%",
+        "fileHash": "sha256-f4054ca6813afde1db5079ba4e47842e867e2d7ab1caad7c4ceae1dda818250c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 25125,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "XHamsterTiktok",
+        "description": "PARS +18 Shorts provider",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/XHamsterTiktok.cs3",
+        "name": "XHamsterTiktok"
+    },
+    {
+        "iconUrl": "https://klubnichka.live/favicon.ico",
+        "fileHash": "sha256-746eb8e953471b6ac4d89a30d9943f0161367993653866497abbdb4890bc3ab3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 21752,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "XXXCanli",
+        "description": "PARS Adult canl\u0131 TV sa\u011flay\u0131c\u0131s\u0131",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/XXXCanli.cs3",
+        "name": "XXXCanli"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=evooli.com&sz=%size%",
+        "fileHash": "sha256-f7380cf794996653543732edab65c25ad13405e7177b586a41463da7d403ffde",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 14897,
+        "status": 1,
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "XXXPARS1",
+        "description": "XXXPARS1 +18 oldu\u011funu unutma.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/XXXPARS1.cs3",
+        "name": "XXXPARS1"
+    },
+    {
+        "fileHash": "sha256-f46829ae99599b9c22fcaff1f238fab2da63611967a8a3de98d0394f534809e2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/punistek/PARS-CloudStream-Builds",
+        "fileSize": 15705,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "PARS"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "XXXPARS2",
+        "description": "XXXPARS2 +18 oldu\u011funu unutma.",
+        "url": "https://raw.githubusercontent.com/punistek/PARS-CloudStream-Builds/builds/XXXPARS2.cs3",
+        "name": "XXXPARS2"
+    }
+]

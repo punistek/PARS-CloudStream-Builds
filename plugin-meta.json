@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "plugins": [
+    {"plugin":"ArdaSpor","capabilities":["Canlı","Spor"],"domains":["https://www.ardasporgiris.site/"],"healthUrl":"https://www.ardasporgiris.site/","changelog":{}},
+    {"plugin":"DiziYou","capabilities":["Dizi","Arama"],"domains":["https://www.diziyou.one"],"healthUrl":"https://www.diziyou.one/","changelog":{}},
+    {"plugin":"FilmizleHell","capabilities":["Film","Arama"],"domains":["https://filmizlehell.com"],"healthUrl":"https://filmizlehell.com/","changelog":{}},
+    {"plugin":"FullHDFilmizle","capabilities":["Film","Dizi","Arama"],"domains":["https://fullhdfilmizle.now"],"healthUrl":"https://fullhdfilmizle.now/","changelog":{}},
+    {"plugin":"FullHDFilmizlesene","capabilities":["Film","Arama"],"domains":["https://www.fullhdfilmizlesene.now"],"healthUrl":"https://www.fullhdfilmizlesene.now/","changelog":{}},
+    {"plugin":"HDFilmCehennemi","capabilities":["Film","Dizi","Arama"],"domains":["https://www.hdfilmcehennemi.nl"],"healthUrl":"https://www.hdfilmcehennemi.nl/","changelog":{}},
+    {"plugin":"SelcukSports","capabilities":["Canlı","Spor"],"domains":["https://www.selcuksportshd.is/"],"healthUrl":"https://www.selcuksportshd.is/","changelog":{}},
+    {"plugin":"ShowTV","capabilities":["Dizi","Arama"],"domains":["https://www.showtv.com.tr"],"healthUrl":"https://www.showtv.com.tr/","changelog":{}},
+    {"plugin":"TEST","capabilities":["Canlı"],"domains":["https://patronlig20.cfd"],"healthUrl":"https://patronlig20.cfd/","changelog":{}},
+    {"plugin":"TEST2","capabilities":["Canlı"],"domains":["https://www.betmarinotv1101.site"],"healthUrl":"https://www.betmarinotv1101.site/","changelog":{}},
+    {"plugin":"Tizam","capabilities":["NSFW"],"domains":["https://ane.tizam.org"],"healthUrl":"https://ane.tizam.org/","changelog":{}},
+    {"plugin":"UncutMaza","capabilities":["Film"],"domains":["https://uncutmaza.cc"],"healthUrl":"https://uncutmaza.cc/","changelog":{}},
+    {"plugin":"SpankBang","capabilities":["NSFW"],"domains":["https://spankbang.com"],"healthUrl":"https://spankbang.com/","changelog":{}}
+  ]
+}
